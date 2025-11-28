@@ -2,7 +2,21 @@
 
 Esta guía establece los protocolos técnicos para aportar material al repositorio **LINUDECX Base de Conocimiento**. Seguir estos pasos garantiza que la información se mantenga ordenada y accesible para todos.
 
-Sobre la mforma de trabaar en el semillero, deberes y derechos como miembro, revisa el archivo **[Metodologia Semillero](./METODOLOGIA-SEMILLERO.md)**
+Sobre la forma de trabajar en el semillero, deberes y derechos como miembro, revisa el archivo **[Metodologia Semillero](./METODOLOGIA-SEMILLERO.md)**
+
+---
+
+## ⛔ PROTOCOLO DE CONFIDENCIALIDAD (IMPORTANTE)
+**¡Lee esto antes de subir archivos!**
+
+En investigación, el manejo de los tiempos es vital. Para proteger la Propiedad Intelectual y la novedad de las publicaciones, queda terminantemente **PROHIBIDO** subir al repositorio público:
+
+1.  **Borradores de Artículos:** No subir *papers* ni artículos hasta que hayan sido **aceptados y publicados** por la revista o evento.
+2.  **Documento de Tesis Completo:** No subir el libro de grado hasta que haya sido sustentado, aprobado y radicado oficialmente en la Universidad.
+3.  **Datos Sensibles:** No subir datos personales de encuestados, contraseñas, llaves API o información privada de terceros.
+
+> **¿Dónde guardo eso mientras tanto?** </br>
+> Esos archivos deben manejarse en carpetas locales, nube privado o repositorios privados hasta que la Directora autorice su publicación en este repositorio.
 
 ---
 
@@ -69,17 +83,19 @@ Usamos una estructura estandarizada para los mensajes de confirmación. Esto nos
 | **chore**| Tareas de mantenimiento (Mover archivos, licencias) | `chore: reorganizar carpetas del año 2024` |
 
 ---
+## 4. Checklist para Nuevos Proyectos 
 
-## 4. Checklist para Nuevos Proyectos
-
-Si vas a subir un Proyecto de Grado o Investigación terminado, tu carpeta en `02-proyectos/AÑO/nombre-proyecto` debe contener obligatoriamente como MÍNIMO:
+Si vas a subir un Proyecto de Grado o Investigación terminado, tu carpeta en `02-proyectos/AÑO/nombre-proyecto` debe cumplir con este **Mínimo Viable**:
 
 - [ ] **Carpeta copiada de la plantilla:** Usa `02-proyectos/plantilla-proyecto` como base.
 - [ ] **README.md:** Completo con título, autores, resumen y estado del proyecto.
 - [ ] **BITACORA.md:** Con la historia, decisiones, dificultades y lecciones aprendidas (post-mortem).
-- [ ] **LINKS.md:** Con los enlaces al código fuente (repositorios de desarrollo o del proyecto en general), videos en YouTube, simulaciones y demás contenido relacionado.
-- [ ] **Diagramas:** Al menos un diagrama de arquitectura o diseño en la carpeta `entregables/diagramas`.
-- [ ] **Multimedia:** Fotos del prototipo o actividad en `multimedia/fotos` (Recuerda: **No videos pesados, solo enlaces**).
+- [ ] **LINKS.md:** Con enlaces al código fuente (repo desarrollo), videos en YouTube y simulaciones.
+- [ ] **Diagramas:** Al menos un diagrama de arquitectura en `entregables/diagramas`.
+- [ ] **Multimedia:** Fotos del prototipo o actividad en `multimedia/fotos` (¡Solo enlaces para videos!).
+- [ ] **Gestión (Bitácora Mensual):** Carpeta `gestion/` con los archivos de actas organizados por mes (ej: `2025-11.md\`, `2025-12.md\`) evidenciando el trabajo semanal.
+
+> **⚠️ IMPORTANTE:** Recuerda NO subir borradores de artículos ni el libro de tesis completo hasta que hayan sido aprobados y radicados oficialmente.
 
 ---
 

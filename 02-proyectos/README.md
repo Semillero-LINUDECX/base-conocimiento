@@ -5,7 +5,7 @@ Bienvenido al archivo histórico de proyectos. Aquí encontrarás la documentaci
 ## 📏 Instrucciones de Organización
 
 ### 1. Estructura de Carpetas
-Los proyectos se organizan estrictamente por **Año de Finalización**.
+Los proyectos se organizan estrictamente por **Año de Finalización** (el año en el que el estudiante recibe su acta de grado, no el año en que sustenta el proyecto).
 `02-proyectos / [AÑO] / [nombre-carpeta-proyecto]`
 
 ### 2. Nomenclatura de Carpetas

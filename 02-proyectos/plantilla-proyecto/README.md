@@ -27,6 +27,7 @@ El sistema se compone de tres módulos principales... (ver diagramas detallados 
 Se logró una precisión del 95% en la detección de... (Ver fotos del prototipo en `multimedia/fotos`).
 
 ## 🔗 Enlaces de Interés
+* [Ver Bitácora de Reuniones (Actas)](./gestion/)
 * [Ver Código Fuente y Repositorio de Desarrollo](./LINKS.md)
 * [Ver Bitácora de Decisiones](./BITACORA.md)
 * [Ver Manual de Usuario](./entregables/manuales/)
