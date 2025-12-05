@@ -27,7 +27,6 @@ Nuestro objetivo es evitar la "fuga de conocimiento" y permitir que las futuras 
 ### 1️⃣ [Empieza Aquí (Bienvenida y Normas)](./00-bienvenida/)
 Si eres nuevo en el semillero o vas a subir tu proyecto, **entra aquí primero**.
 * [📜 Léeme Primero (Propósito)](./00-bienvenida/LEEME-PRIMERO.md)
-
 * [⚙️ Metodología y Compromisos](./00-bienvenida/METODOLOGIA-SEMILLERO.md)
 * [🛠️ Guía Técnica de Contribución](./00-bienvenida/flujo-de-trabajo.md)
 

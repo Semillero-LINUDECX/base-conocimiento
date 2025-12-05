@@ -6,7 +6,7 @@
 ## 🌱 Nuestros Orígenes
 El Semillero de Investigación en Software Libre (LINUDECX) nació en la Universidad de Cundinamarca, Extensión Facatativá, con el objetivo de incentivar el ejercicio investigativo mediante el estudio y apropiación de tecnologías libres.
 
-Desde sus inicios, nos hemos alineado con la línea de investigación institucional: *"Aprendizaje, conocimiento, tecnologías, comunicación y digitalización"*.
+Inicialmente nos alineamos con la línea de investigación institucional *'Software, sistemas emergentes y nuevas tecnologías'*. En los últimos años hemos orientado nuestro trabajo hacia la línea *'Aprendizaje, conocimiento, tecnologías, comunicación y digitalización'*, que guía actualmente los proyectos del semillero.
 
 ## 🧠 Nuestra Metodología
 No improvisamos. Nuestra forma de trabajo combina rigor científico con agilidad técnica:
@@ -21,7 +21,7 @@ La distinción de "Tesis Meritoria" es un valioso reconocimiento académico a la
 
 * **🍓 Trazabilidad en Fresas (Vision Artificial):**
   *"Sistema de trazabilidad interna de cultivos de fresas empleando herramientas de procesamiento digital de imágenes en El Rosal, Cundinamarca."*
-  * **Autores:** Brayan Asmed Suarez, Nicolas Eduardo Peralta, Sara Mantilla, Andres Martínez.
+  * **Autores:** Sara Mantilla y Andrés Martínez.
 
 * **🫐 Cultivo de Bayas (IoT y Automatización):**
   *"Desarrollo de un prototipo de sistema computacional para gestionar y controlar un cultivo de bayas silvestres en un sistema cerrado de recirculación de agua."*
