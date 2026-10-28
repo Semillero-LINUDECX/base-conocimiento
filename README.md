@@ -35,6 +35,7 @@ Material de apoyo útil para cualquier proyecto.
 * [Investigación y Redacción](./01-recursos-transversales/guias-investigacion/)
 * [Desarrollo de Software](./01-recursos-transversales/guias-desarrollo/)
 * [Infraestructura y Hardware (IoT)](./01-recursos-transversales/guias-infra/)
+* [Guía de Configuración PlatformIO (ESP32)](./01-recursos-transversales/platform/)
 * [Plantillas y Logos](./01-recursos-transversales/plantillas/)
 
 ### 3️⃣ [Banco de Proyectos (Historial)](./02-proyectos/)
